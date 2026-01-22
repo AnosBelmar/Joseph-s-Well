@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://joseph-s-well.vercel.app/</loc>
+    <lastmod>2026-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Images referenced in the page -->
+    <image:image>
+      <image:loc>https://uswaterrevolution.com/wp-content/uploads/Johntsl.webp</image:loc>
+      <image:title>John Gilmore - Creator of Joseph's Well</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://uswaterrevolution.com/wp-content/uploads/WhatsApp-Image-2025-05-22-at-13.55.20_53a09a6a-e1747934227205.jpg</image:loc>
+      <image:title>Testimonial - Adam B.</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://uswaterrevolution.com/wp-content/uploads/WhatsApp-Image-2025-05-22-at-13.55.20_05f3b6b1-e1747934256461.jpg</image:loc>
+      <image:title>Testimonial - Lena R.</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://uswaterrevolution.com/wp-content/uploads/guarantee-badge-1__opdb-op66d0e50d7bb874-76361341.png</image:loc>
+      <image:title>60-Day Money-Back Guarantee</image:title>
+    </image:image>
+  </url>
+  
+</urlset>
